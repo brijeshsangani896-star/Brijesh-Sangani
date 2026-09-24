@@ -1,0 +1,8 @@
+{
+  "name": "Remix SMELT Raw-Material Lab Data Platform",
+  "description": "B2B raw-material laboratory data sheet and specification checkout platform for perfumers and flavor chemists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
